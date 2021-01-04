@@ -1,6 +1,6 @@
-/*********************************************************************************************************************/
+
 /* Sudoku puzzle solver by Simon Ghyselincks
- * sghyselincks@gmail.com
+ * sghyselincks(at)gmail.com
  * Jan 3rd 2021
  *
  *  Creates a pseudo-random solvable Sudoku puzzle with a unique solution and prints it.
