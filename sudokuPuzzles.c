@@ -77,8 +77,6 @@ int main(void) {
 	//							5,0,0,0,0,9,0,0,0,
 	//							0,0,0,0,0,0,0,4,0};	
 
-	SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 6); //Adjust Console appearance
-
 	/* seed the random number generator with the current time */
 	srand(time(NULL));
 
